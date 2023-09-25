@@ -1,1 +1,1 @@
-# simpleProject
+# EcommerceWeb
