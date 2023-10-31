@@ -44,4 +44,9 @@ export class CalendarviewComponent {
   events: CalendarEvent[] = [];
 
   clickedDate!: Date;
+
+  changeDay(date: Date) {
+    this.viewDate = date;
+    this.view = CalendarView.Day;
+  }
 }
