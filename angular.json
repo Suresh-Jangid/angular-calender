@@ -25,7 +25,9 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "../angular-calender/node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "../angular-calender/node_modules/angular-calendar/css/angular-calendar.css"
             ],
             "scripts": []
           },
